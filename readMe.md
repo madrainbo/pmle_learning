@@ -1,10 +1,8 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # 
 
 ---
 
-# under each of these categories provide sufficient details for me to revise
+# Each of these categories provide sufficient details to revise core concepts
 
 Here is a detailed breakdown of key concepts under each category to help you revise effectively for the Google Cloud Professional Machine Learning Engineer (PMLE) exam:
 
@@ -116,7 +114,7 @@ Here is a detailed breakdown of key concepts under each category to help you rev
 
 This structured revision plan covers all critical areas tested in the PMLE exam. Focus on hands-on practice with Google Cloud tools alongside theoretical understanding.
 
-<div style="text-align: center">⁂</div>
+<div style="text-align: center">➼➼</div>
 
 [^1]: https://www.vmexam.com/google/google-gcp-pmle-certification-exam-sample-questions
 
